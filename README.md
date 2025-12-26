@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP MERN stack development REST APIs & database design ERP and business application development**
 
-- 📫 How to reach me **codencoderoffice@gmail.com**
+- 📫 How to reach me **syedwaleedaliofficial90@gmail.com**
 
 - ⚡ Fun fact **I enjoy solving complex problems and believe clean architecture is just as important as clean code.**
 
